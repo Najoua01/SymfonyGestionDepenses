@@ -11,4 +11,4 @@ installer l'exécutable node.js sur https://nodejs.org/en/download/
 installer le module webpack avec symfony composer req symfony/webpack-encore-bundle 
 installer webpack avec symfony composer req symfony/webpack-encore-bundle
 installer les dépendances js et webpack encore avec npm install
-quznd tu es ok avec webpack alors fixer avec npm run build
+quand tout est ok avec webpack alors  avec npm run build
