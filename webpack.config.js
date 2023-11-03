@@ -20,11 +20,11 @@ Encore
 
     // Ajoute ces lignes pour chaque fichier JS supplémentaire
     .addEntry('app', './assets/js/app.js')
-    .addEntry('app_calendrier', './assets/js/calendrier.js')
+    .addEntry('calendrier', './assets/js/calendrier.js')
 
     // Ajoute ces lignes pour chaque fichier CSS supplémentaire
     .addStyleEntry('app-style', './assets/styles/app.css')
-    .addStyleEntry('app-style_calendrier', './assets/styles/calendrier.css')
+    .addStyleEntry('calendrier-style', './assets/styles/calendrier.css')
 ;
 
 module.exports = Encore.getWebpackConfig();
