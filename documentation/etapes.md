@@ -8,7 +8,6 @@ ma page d'accueil a un calendrier donc créer le calendrier avec npm install ful
 installer la librairie axios pour faire appel à ajax avec npm install axios
 installer les plugins de la livrairie avec npm install --save @fullcalendar/core @fullcalendar/daygrid @fullcalendar/interaction
 installer l'exécutable node.js sur https://nodejs.org/en/download/
-installer le module webpack avec symfony composer req symfony/webpack-encore-bundle 
 installer webpack avec symfony composer req symfony/webpack-encore-bundle
 installer les dépendances js et webpack encore avec npm install
-quand tout est ok avec webpack alors  avec npm run build
+quand tout est ok avec webpack alors fixer avec npm run build
